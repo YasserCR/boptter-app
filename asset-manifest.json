@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/boptter-app/static/css/main.07099891.chunk.css",
-    "main.js": "/boptter-app/static/js/main.76792fec.chunk.js",
-    "main.js.map": "/boptter-app/static/js/main.76792fec.chunk.js.map",
+    "main.js": "/boptter-app/static/js/main.90f9ecc3.chunk.js",
+    "main.js.map": "/boptter-app/static/js/main.90f9ecc3.chunk.js.map",
     "runtime-main.js": "/boptter-app/static/js/runtime-main.c79a959d.js",
     "runtime-main.js.map": "/boptter-app/static/js/runtime-main.c79a959d.js.map",
     "static/css/2.89d9a46c.chunk.css": "/boptter-app/static/css/2.89d9a46c.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.89d9a46c.chunk.css",
     "static/js/2.e3dbc23b.chunk.js",
     "static/css/main.07099891.chunk.css",
-    "static/js/main.76792fec.chunk.js"
+    "static/js/main.90f9ecc3.chunk.js"
   ]
 }
